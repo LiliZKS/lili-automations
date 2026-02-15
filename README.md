@@ -1,19 +1,26 @@
-# Lili Automations — Templates and workflows
+<div align="center">
 
-**PT/EN • Cyber-feminine • Private by design**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&text=Lili%20Automations&fontAlign=50&fontAlignY=45&fontSize=42&color=0:ff4ecd,35:b983ff,100:6c63ff&fontColor=ffffff&desc=Templates%20•%20Workflows%20•%20Integrations&descAlignY=72" />
 
-> Soft voice. Sharp systems.
+**PT/EN • Cyber-feminine • Private by design**  
+_soft voice. sharp systems._
 
-## ✦ Purpose
-Reusable automations and integration patterns designed to be safe, boring, and dependable.
+[🌐 Landing](https://lilizks.github.io) • [💻 Profile](https://github.com/LiliZKS)
 
-## ✦ What you’ll find here
-- Workflow templates
-- Example integrations (sanitized)
-- Small utilities
-- Notes on privacy-first implementation
+</div>
 
-## ✦ Values
+---
+
+## ✦ Purpose / Propósito
+
+Reusable automation patterns designed to be safe, dependable, and privacy-first.
+
+## ✦ What you’ll find here / O que tem aqui
+
+- Workflow templates\n- Integration patterns (sanitized)\n- Small utilities\n- Notes on implementation and tradeoffs
+
+## ✦ Values / Valores
+
 - 🔐 Privacy-first
 - 🧠 Clarity over noise
 - 🛠️ Craft + execution
@@ -21,4 +28,6 @@ Reusable automations and integration patterns designed to be safe, boring, and d
 
 ---
 
-**Landing:** https://lilizks.github.io
+### ✦ Links
+- Landing page: https://lilizks.github.io
+- GitHub profile: https://github.com/LiliZKS
